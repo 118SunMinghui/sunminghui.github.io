@@ -1,0 +1,11 @@
+﻿@article{sun2026laser,
+  title={2 {$\\mu$}m dual-wavelength Tm: YAG laser based on a MoS2/Ti3C2Tx saturable absorber},
+  author={Wang, Chunyang and Sun, Minghui and Guo, Sihan and Wang, Ke and Li, Kuan and Wu, Chunting and Yu, Yongji},
+  journal={Infrared Physics \\& Technology},
+  volume={156},
+  pages={106586},
+  year={2026},
+  doi={10.1016/j.infrared.2026.106586},
+  url={https://doi.org/10.1016/j.infrared.2026.106586},
+  publisher={Elsevier}
+}
